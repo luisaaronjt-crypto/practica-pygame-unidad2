@@ -1,0 +1,22 @@
+
+## Contenido
+
+### 01_ventana_basica.py
+Crea la ventana básica de Pygame, bucle principal y cómo cerrar correctamente. Base de todo juego.
+
+### 02_dibujo_figuras.py
+Muestra cómo dibujar rectángulos, círculos, líneas y poner texto con fuentes. Dibuja una carita feliz.
+
+### 03_movimiento_teclado.py
+Mueve un personaje con WASD y flechas. Muestra manejo de eventos KEYDOWN y cómo controlar la velocidad con clock.
+
+### 04_colisiones_puntaje.py
+Dos cuadrados que al chocar cambian de color y suman puntos. Explica colisiones con pygame.Rect.colliderect().
+
+### 05_sprites_animacion.py
+Un jugador que camina con animación simple de sprites (cambio de color/piernas). Muestra cómo animar y llevar gravedad.
+
+### 06_mini_juego_tacos.py - JUEGO PRINCIPAL
+**Lluvia de Tacos - Edición Jarocha:** Mueve el plato con A/D o flechas. Atrapa tacos (+10 pts), evita chiles bomba (-1 vida). Cada 10 tacos aumenta la velocidad. Tiene menú, vidas, puntaje y pantalla de Game Over. Es 100% original y divertido.
+
+## Cómo ejecutar cualquier archivo
